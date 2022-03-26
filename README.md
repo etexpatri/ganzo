@@ -6,3 +6,9 @@
 *** Questo testo è molto importante ***
 
 > Questo testo è quotato
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
